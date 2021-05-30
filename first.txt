@@ -3,6 +3,6 @@
 ２回目のチャレンジです。
 git add
 git commit
-
+git rm
 
 
